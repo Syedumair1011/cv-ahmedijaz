@@ -1,12 +1,10 @@
 #root {
   margin: 0 auto;
   padding: 2rem;
+  background-color: #F2F2F2;
 }
 #main {
   margin-top:30px;
-}
-.maindiv{
-  background-color: #F2F2F2;
 }
 .logo {
   height: 6em;
